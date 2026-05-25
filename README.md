@@ -10,8 +10,8 @@ independent software agency.
 - Multi-carrier courier aggregator — rate engine, payment gateway,
   live shipment tracking, and operations dashboard
   
-- AI-powered internship marketplace — semantic skill matching via
-  vector embeddings, built for 10,000+ concurrent users
+- EdTech platform - connecting students with internship opportunities through smart job matching,
+  recruiter dashboards, and seamless onboarding.
   
 - OTT content platform — automated poster generation using Hugging Face
   scene detection and FFmpeg video processing pipeline
@@ -20,7 +20,7 @@ independent software agency.
   audit tracker, built for a CA's early-stage product idea
 
 ## Technical Stack
-Languages:  JavaScript (ES6+), TypeScript, Python, Java, SQL
+Languages:  JavaScript (ES6+), TypeScript,Java, SQL
 Frontend:  React, HTML5, CSS3, Tailwind CSS
 Backend:  Node.js, Express.js, REST API design, JWT Auth
 Databases:  PostgreSQL, MongoDB
