@@ -1,9 +1,8 @@
 Sharleez Fathima
 Full Stack Developer · Chennai, India
 
-I build and ship custom software — full-stack systems and AI-integrated 
-products for startups and mid-size businesses. I run Hodotech, my 
-independent software agency.
+I build and ship web applications and AI-integrated products — from architecture to deployment.
+
 
 
 ## Delivered
