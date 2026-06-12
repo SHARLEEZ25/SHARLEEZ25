@@ -5,7 +5,7 @@ I build and ship web applications and AI-integrated products — from architectu
 
 
 
-## Recent work
+## Recent work 
 
 Courier aggregator — multi-carrier rate comparison across DHL, FedEx, UPS
 
