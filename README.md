@@ -8,8 +8,11 @@ I build and ship web applications and AI-integrated products — from architectu
 ## Recent work
 
 Courier aggregator — multi-carrier rate comparison across DHL, FedEx, UPS
+
 EdTech platform — semantic internship matching using vector embeddings
+
 OTT poster generator — Gemini frame analysis + FLUX.1-schnell image generation
+
 CA workflow tool — built the frontend prototype for a CA firm's compliance and GST tracking product
 
 ## Technical Stack
