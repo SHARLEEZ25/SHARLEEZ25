@@ -20,8 +20,8 @@ Languages:  JavaScript (ES6+), TypeScript,Java, SQL
 Frontend:  React, HTML5, CSS3, Tailwind CSS
 Backend:  Node.js, Express.js, REST API design, JWT Auth
 Databases:  PostgreSQL, MongoDB
-AI & Integrations:  Hugging Face APIs, Vector Embeddings, FFmpeg, Razorpay, AfterShip
-Tools:  Git, GitHub, Render, Figma, Postman, Claude Code
+AI & Integrations:  Hugging Face APIs, Vector Embeddings, FFmpeg, AfterShip
+Tools:  GitHub, Render, vercel Postman, Claude Code
 
 
 ## Let's build something
